@@ -25,9 +25,5 @@ This project leverages **Python, OpenCV, and TensorFlow/Keras** to predict facia
 * **Lightweight & Fast:** Optimized for quick frame-by-frame processing without heavy lag.
 * **Custom Trained Model:** Built and trained using a Convolutional Neural Network (CNN) architecture.
 
-## ⚙️ Installation & Setup
-
-**1. Clone the repository**
-```bash
-git clone [https://github.com/kumarvivek9088/Face_Emotion_Recognition_Machine_Learning.git](https://github.com/kumarvivek9088/Face_Emotion_Recognition_Machine_Learning.git)
-cd Face_Emotion_Recognition_Machine_Learning
+data :- you will get the data on kaggle
+https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
